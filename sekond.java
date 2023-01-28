@@ -1,5 +1,5 @@
 class MySekondClass {
-    String name;
-    int age;
-    boolean exp;
+   private String name;
+   private int age;
+   private boolean exp;
 }
